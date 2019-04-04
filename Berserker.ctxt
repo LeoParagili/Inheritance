@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Berserker
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Berserker\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ gender
+comment1.target=Berserker(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=boolean\ rabidBeast()
+numComments=3
